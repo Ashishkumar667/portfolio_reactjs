@@ -30,7 +30,7 @@ const Resume = () => {
     <ResumeSection id="resume">
       <h2>Resume</h2>
       <p>You can download or view my resume using the links below:</p>
-      <ResumeButton href="/resume.pdf" download="YourName_Resume.pdf">
+      <ResumeButton href="/resume.pdf" download="Ashish_Resume.pdf">
         Download Resume
       </ResumeButton>
       <ResumeButton href="/resume.pdf" target="_blank" rel="noopener noreferrer">
