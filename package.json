@@ -1,10 +1,13 @@
 
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
 {
   "homepage": ".",
   "dependencies": {
-  "react-scripts": "^5.0.1",
-
-
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
